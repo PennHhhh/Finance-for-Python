@@ -1,1 +1,1 @@
-# Python
+# Finance for Python
